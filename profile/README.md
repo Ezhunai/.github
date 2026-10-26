@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Ezhunai · எழுநை
 ### *Learn together. Build together. Rise together.*
@@ -8,6 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-ezhunai.isroot.in-354d30)](https://ezhunai.isroot.in)
 [![Instagram](https://img.shields.io/badge/Instagram-@ezhunai-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ezhunai/)
 [![YouTube](https://img.shields.io/badge/YouTube-@Ezhunai-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@Ezhunai)
+[![Email](https://img.shields.io/badge/Email-ezhunai.community%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:ezhunai.community@gmail.com)
 
 <br/>
 
@@ -59,3 +60,4 @@ Rooted in Tamil identity while remaining open to the world, Ezhunai welcomes beg
 - **WhatsApp**: [Join our WhatsApp community](https://chat.whatsapp.com/LVGGC3lCBJG78k4rkcPijB)
 - **Instagram**: [@ezhunai](https://www.instagram.com/ezhunai/)
 - **YouTube**: [@Ezhunai](https://www.youtube.com/@Ezhunai)
+- **Email**: [ezhunai.community@gmail.com](mailto:ezhunai.community@gmail.com)
